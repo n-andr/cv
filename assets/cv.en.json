@@ -37,18 +37,18 @@
   },
   "projects": [
     {
-      "name": "eCommerce (group project)",
+      "name": "eCommerce website",
       "tagline": "React/TypeScript app with CommerceTools",
-      "stack": "TypeScript • React • Vite • Sass • Vitest • ESLint/Prettier • Husky",
+      "stack": "TypeScript • React • Vite • Sass • Vitest",
       "links": { "repo": "https://github.com/n-andr/eCommerce-group-project" },
       "bullets": [
         { "text": "Built a responsive eCommerce app: login/registration, product catalog, product details, basket, and checkout flow.", "focus": ["fullstack", "frontend"] },
-        { "text": "Worked in a team environment with consistent code quality (linting/formatting) and pre-commit checks.", "focus": ["fullstack", "frontend", "backend"] },
+        { "text": "Worked in a high pace team environment with consistent code quality (linting/formatting) and pre-commit checks.", "focus": ["fullstack", "frontend", "backend"] },
         { "text": "Added automated tests with Vitest and maintained a smooth developer workflow with Vite.", "focus": ["fullstack", "frontend"] }
       ]
     },
     {
-      "name": "Minishell (42 Berlin)",
+      "name": "Shell (42 Berlin)",
       "tagline": "Minimal bash-like shell",
       "stack": "C • Unix processes • pipes/redirections • signals",
       "links": { "repo": "https://github.com/n-andr/minishell" },
@@ -59,14 +59,33 @@
       ]
     },
     {
-      "name": "ft_transcendence (42 Berlin team project)",
-      "tagline": "Fullstack capstone (details to be refined)",
-      "stack": "Team project • React + TypeScript + Vite present",
-      "links": { "repo": "https://github.com/n-andr/Transcendence" },
-      "bullets": [
-        { "text": "Contributed to a structured team project with defined modules and planned features; expand with your concrete contributions.", "focus": ["fullstack", "frontend", "backend"] }
-      ]
+  "name": "Multiplayer online game (42 Berlin final project)",
+  "tagline": "Fullstack real-time multiplayer web application with synchronized gameplay",
+  "stack": "Team project • React • TypeScript • Vite • Docker • WebSockets • Node.js",
+  "links": { "repo": "https://github.com/n-andr/Transcendence" },
+  "bullets": [
+    {
+      "text": "Acted as Technical Lead, driving architecture decisions, defining project structure, and ensuring code quality across frontend and backend.",
+      "focus": ["leadership", "architecture","fullstack", "frontend", "backend"]
+    },
+    {
+      "text": "Designed and implemented real-time multiplayer synchronization using WebSockets, enabling low-latency state updates across connected clients.",
+      "focus": ["backend", "websockets", "fullstack", "frontend"]
+    },
+    {
+      "text": "Architected and optimized drawing synchronization with incremental stroke updates to reduce network load and improve performance.",
+      "focus": ["frontend", "performance", "fullstack"]
+    },
+    {
+      "text": "Developed interactive frontend using React and TypeScript, integrating live game state, player roles, and room-based sessions.",
+      "focus": ["frontend", "fullstack"]
+    },
+    {
+      "text": "Led technical alignment within the team through code reviews, module ownership, and structured feature planning.",
+      "focus": ["teamwork", "leadership", "fullstack", "frontend"]
     }
+  ]
+}
   ],
   "experience": [
     {
@@ -85,10 +104,23 @@
     }
   ],
   "education": [
-    { "title": "42 Berlin — Software Engineering (completed)", "details": "Project-based curriculum: C, algorithms, debugging, peer code reviews, teamwork." },
-    { "title": "RS School — Frontend Development (completed)", "details": "HTML, CSS, JavaScript, modern frontend workflows." },
-    { "title": "HSE University (Moscow) — Bachelor in Graphic & Web Design", "details": "2013" }
-  ],
+  {
+    "title": "42 Berlin — Software Engineering (in progress)",
+    "details": "Project-based curriculum focused on C/C++, algorithms, system programming, debugging, peer code reviews, and collaborative development."
+  },
+  {
+    "title": "RS School — Frontend Development (completed)",
+    "details": "Hands-on training in HTML, CSS, JavaScript, and modern frontend tooling, including responsive design and application architecture."
+  },
+  {
+    "title": "Code University — TechStart Program",
+    "details": "Intensive preparatory program covering programming fundamentals, web technologies, and problem-solving with a focus on practical, project-based learning."
+  },
+  {
+    "title": "HSE University (Moscow) — Bachelor in Graphic & Web Design",
+    "details": "Foundation in visual design, UX/UI principles, and digital media, with a focus on combining creativity and technical implementation."
+  }
+],
   "languages": [
     "English — fluent",
     "German — B2"
