@@ -1,0 +1,96 @@
+{
+  "labels": {
+    "cvTitle": "CV",
+    "focusLabel": "Focus",
+    "profile": "Profile",
+    "projects": "Selected projects",
+    "repo": "(repo)",
+    "experience": "Earlier experience (brief)",
+    "status": "Status",
+    "workAuthorization": "Work authorization",
+    "availableFrom": "Available from",
+    "skills": "Skills",
+    "education": "Education",
+    "languages": "Languages",
+    "printHint": "Tip: use your browser Print dialog to save as PDF."
+  },
+  "person": {
+    "name": "Natalia Andreeva",
+    "location": "Berlin, Germany",
+    "availability": "Available from 2026-06-01",
+    "availableFrom": "2026-06-01",
+    "workAuthorization": "Germany / EU",
+    "links": {
+      "github": "https://github.com/n-andr",
+      "linkedin": "https://www.linkedin.com/in/natalia-andreeva-bb313821a/"
+    }
+  },
+  "profile": "Junior Fullstack Developer (career changer) with a background in UI/UX and digital product work and recent intensive training in software engineering. Completed 42 Berlin (project-based, peer-reviewed curriculum with strong C/systems fundamentals) and the RS School Frontend course. Comfortable building UIs, integrating APIs, writing tests, and debugging issues. Looking for a junior/intern role in Berlin.",
+  "skills": {
+    "summary": "Core stack and tools:",
+    "items": [
+      "Languages: C, TypeScript, JavaScript, HTML, CSS (plus basic Python)",
+      "Frontend: React, Vite, Sass",
+      "Testing & quality: Vitest, ESLint, Prettier, Git/GitHub",
+      "Debugging/tools: Linux, Valgrind, GDB, VS Code, Vim"
+    ]
+  },
+  "projects": [
+    {
+      "name": "eCommerce (group project)",
+      "tagline": "React/TypeScript app with CommerceTools",
+      "stack": "TypeScript • React • Vite • Sass • Vitest • ESLint/Prettier • Husky",
+      "links": { "repo": "https://github.com/n-andr/eCommerce-group-project" },
+      "bullets": [
+        { "text": "Built a responsive eCommerce app: login/registration, product catalog, product details, basket, and checkout flow.", "focus": ["fullstack", "frontend"] },
+        { "text": "Worked in a team environment with consistent code quality (linting/formatting) and pre-commit checks.", "focus": ["fullstack", "frontend", "backend"] },
+        { "text": "Added automated tests with Vitest and maintained a smooth developer workflow with Vite.", "focus": ["fullstack", "frontend"] }
+      ]
+    },
+    {
+      "name": "Minishell (42 Berlin)",
+      "tagline": "Minimal bash-like shell",
+      "stack": "C • Unix processes • pipes/redirections • signals",
+      "links": { "repo": "https://github.com/n-andr/minishell" },
+      "bullets": [
+        { "text": "Implemented command parsing and execution, including core builtins (cd/echo/export/unset/exit).", "focus": ["backend", "fullstack"] },
+        { "text": "Implemented pipes and I/O redirections with careful file descriptor and memory management.", "focus": ["backend", "fullstack"] },
+        { "text": "Handled signals (Ctrl+C/Ctrl+D/Ctrl+\\) with bash-like behavior.", "focus": ["backend", "fullstack"] }
+      ]
+    },
+    {
+      "name": "ft_transcendence (42 Berlin team project)",
+      "tagline": "Fullstack capstone (details to be refined)",
+      "stack": "Team project • React + TypeScript + Vite present",
+      "links": { "repo": "https://github.com/n-andr/Transcendence" },
+      "bullets": [
+        { "text": "Contributed to a structured team project with defined modules and planned features; expand with your concrete contributions.", "focus": ["fullstack", "frontend", "backend"] }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "UI/UX + digital product roles (Russia) — Web/Email design, cross-functional collaboration",
+      "period": "2013–2017",
+      "bullets": [
+        "Worked with stakeholders and teams to deliver customer-facing digital materials and consistent brand experience."
+      ]
+    },
+    {
+      "title": "Relocation to Germany & language training",
+      "period": "2018–2022",
+      "bullets": [
+        "Relocated to Germany; completed German language learning and integration tasks."
+      ]
+    }
+  ],
+  "education": [
+    { "title": "42 Berlin — Software Engineering (completed)", "details": "Project-based curriculum: C, algorithms, debugging, peer code reviews, teamwork." },
+    { "title": "RS School — Frontend Development (completed)", "details": "HTML, CSS, JavaScript, modern frontend workflows." },
+    { "title": "HSE University (Moscow) — Bachelor in Graphic & Web Design", "details": "2013" }
+  ],
+  "languages": [
+    "English — fluent",
+    "German — B2"
+  ]
+}

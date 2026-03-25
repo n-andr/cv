@@ -1,0 +1,96 @@
+{
+  "labels": {
+    "cvTitle": "Lebenslauf",
+    "focusLabel": "Fokus",
+    "profile": "Profil",
+    "projects": "Ausgewählte Projekte",
+    "repo": "(Repo)",
+    "experience": "Frühere Erfahrung (kurz)",
+    "status": "Status",
+    "workAuthorization": "Arbeitserlaubnis",
+    "availableFrom": "Verfügbar ab",
+    "skills": "Skills",
+    "education": "Ausbildung",
+    "languages": "Sprachen",
+    "printHint": "Tipp: Über den Browser-Druckdialog als PDF speichern."
+  },
+  "person": {
+    "name": "Natalia Andreeva",
+    "location": "Berlin, Deutschland",
+    "availability": "Verfügbar ab 01.06.2026",
+    "availableFrom": "2026-06-01",
+    "workAuthorization": "Deutschland / EU",
+    "links": {
+      "github": "https://github.com/n-andr",
+      "linkedin": "https://www.linkedin.com/in/natalia-andreeva-bb313821a/"
+    }
+  },
+  "profile": "Junior Fullstack Entwicklerin (Quereinstieg) mit Hintergrund in UI/UX und digitaler Produktarbeit sowie aktueller intensiver Ausbildung in Softwareentwicklung. 42 Berlin (projektbasiert, peer-reviewed, starke C-/Systemgrundlagen) und RS School Frontend abgeschlossen. Sicher im UI-Bau, API-Integration, Testing und Debugging. Suche eine Junior-/Intern-Position in Berlin.",
+  "skills": {
+    "summary": "Technologien und Tools:",
+    "items": [
+      "Sprachen: C, TypeScript, JavaScript, HTML, CSS (Python: basic)",
+      "Frontend: React, Vite, Sass",
+      "Testing & Qualität: Vitest, ESLint, Prettier, Git/GitHub",
+      "Tools/Debugging: Linux, Valgrind, GDB, VS Code, Vim"
+    ]
+  },
+  "projects": [
+    {
+      "name": "eCommerce (Gruppenprojekt)",
+      "tagline": "React/TypeScript App mit CommerceTools",
+      "stack": "TypeScript • React • Vite • Sass • Vitest • ESLint/Prettier • Husky",
+      "links": { "repo": "https://github.com/n-andr/eCommerce-group-project" },
+      "bullets": [
+        { "text": "Responsives eCommerce-Webapp: Login/Registrierung, Katalog, Produktdetails, Warenkorb, Checkout-Flow.", "focus": ["fullstack", "frontend"] },
+        { "text": "Teamarbeit mit konsistenter Code-Qualität (Linting/Formatting) und Pre-Commit Checks.", "focus": ["fullstack", "frontend", "backend"] },
+        { "text": "Automatisierte Tests mit Vitest; stabiler Dev-Workflow mit Vite.", "focus": ["fullstack", "frontend"] }
+      ]
+    },
+    {
+      "name": "Minishell (42 Berlin)",
+      "tagline": "Minimaler bash-ähnlicher Shell",
+      "stack": "C • Unix-Prozesse • Pipes/Redirections • Signals",
+      "links": { "repo": "https://github.com/n-andr/minishell" },
+      "bullets": [
+        { "text": "Command Parsing und Execution inkl. Built-ins (cd/echo/export/unset/exit).", "focus": ["backend", "fullstack"] },
+        { "text": "Pipes und I/O-Redirections mit sauberem File-Descriptor- und Memory-Management.", "focus": ["backend", "fullstack"] },
+        { "text": "Signal-Handling (Ctrl+C/Ctrl+D/Ctrl+\\) ähnlich bash.", "focus": ["backend", "fullstack"] }
+      ]
+    },
+    {
+      "name": "ft_transcendence (42 Berlin Teamprojekt)",
+      "tagline": "Fullstack Capstone (Details werden ergänzt)",
+      "stack": "Teamprojekt • React + TypeScript + Vite vorhanden",
+      "links": { "repo": "https://github.com/n-andr/Transcendence" },
+      "bullets": [
+        { "text": "Beitrag zu einem strukturierten Teamprojekt mit Modulen/Features (bitte deinen konkreten Beitrag ergänzen).", "focus": ["fullstack", "frontend", "backend"] }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "UI/UX + digitale Produktrollen (Russland) — Web/Email Design, Zusammenarbeit",
+      "period": "2013–2017",
+      "bullets": [
+        "Zusammenarbeit mit Stakeholdern und Teams zur Lieferung von kundenorientierten digitalen Materialien."
+      ]
+    },
+    {
+      "title": "Umzug nach Deutschland & Sprachtraining",
+      "period": "2018–2022",
+      "bullets": [
+        "Umzug nach Deutschland; Sprachlernen und Integrationsthemen."
+      ]
+    }
+  ],
+  "education": [
+    { "title": "42 Berlin — Software Engineering (abgeschlossen)", "details": "Projektbasiert: C, Algorithmen, Debugging, Peer Code Reviews, Teamarbeit." },
+    { "title": "RS School — Frontend Development (abgeschlossen)", "details": "HTML, CSS, JavaScript, moderne Frontend-Workflows." },
+    { "title": "HSE University (Moskau) — Bachelor Grafik- und Webdesign", "details": "2013" }
+  ],
+  "languages": [
+    "Englisch — fließend",
+    "Deutsch — B2"
+  ]
+}
