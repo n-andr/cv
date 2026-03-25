@@ -1,0 +1,114 @@
+{
+  "labels": {
+    "cvTitle": "CV",
+    "focusLabel": "Focus",
+    "profile": "Profile",
+    "projects": "Selected projects",
+    "repo": "(repo)",
+    "experience": "Earlier experience (brief)",
+    "status": "Status",
+    "workAuthorization": "Work authorization",
+    "availableFrom": "Available from",
+    "skills": "Skills",
+    "education": "Education",
+    "languages": "Languages",
+    "printHint": "Tip: use your browser Print dialog to save as PDF."
+  },
+  "person": {
+    "name": "Natalia Andreeva",
+    "location": "Berlin, Germany",
+    "availability": "Available from 2026-06-01",
+    "availableFrom": "2026-06-01",
+    "workAuthorization": "Germany / EU",
+    "links": {
+      "github": "https://github.com/n-andr",
+      "linkedin": "https://www.linkedin.com/in/natalia-andreeva-bb313821a/"
+    }
+  },
+  "profile": "Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript and a background in UI/UX. Comfortable implementing small features, fixing layout and styling issues, integrating content, and supporting existing codebases. Experienced working with Git, following project guidelines, and communicating clearly in remote teams. Reliable, detail-oriented, and motivated to learn quickly while contributing to real client projects.",
+  "skills": {
+    "summary": "Relevant skills for web feature work:",
+    "items": [
+      "HTML, CSS, JavaScript (ES6+), TypeScript basics",
+      "React (basic component development and integration)",
+      "CSS adjustments, responsive layouts, UI fixes",
+      "Basic backend understanding (Python, APIs, request/response flow)",
+      "Git & GitHub (branching, pull requests, collaboration)",
+      "Debugging browser issues and fixing frontend bugs"
+    ]
+  },
+  "projects": [
+    {
+      "name": "eCommerce website",
+      "tagline": "Frontend web app with forms, UI components, and product pages",
+      "stack": "React • TypeScript • HTML • CSS • Vite",
+      "links": {
+        "repo": "https://github.com/n-andr/eCommerce-group-project"
+      },
+      "bullets": [
+        {
+          "text": "Implemented frontend features including forms, product views, and user interactions.",
+          "focus": ["frontend", "html", "css", "javascript"]
+        },
+        {
+          "text": "Adjusted styling and layout (CSS) to improve usability and responsiveness.",
+          "focus": ["css", "frontend"]
+        },
+        {
+          "text": "Fixed UI bugs and ensured consistent behavior across components.",
+          "focus": ["debugging", "frontend"]
+        }
+      ]
+    },
+    {
+      "name": "Multiplayer web application",
+      "tagline": "Team project with real-time features and UI interaction",
+      "stack": "React • TypeScript • Node.js • WebSockets",
+      "links": {
+        "repo": "https://github.com/n-andr/Transcendence"
+      },
+      "bullets": [
+        {
+          "text": "Developed and refined frontend components and integrated live data into the UI.",
+          "focus": ["frontend", "javascript"]
+        },
+        {
+          "text": "Worked on incremental improvements, bug fixes, and feature adjustments in a team environment.",
+          "focus": ["frontend", "teamwork"]
+        },
+        {
+          "text": "Collaborated using Git with regular code reviews and structured task management.",
+          "focus": ["git", "teamwork"]
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "UI/UX + digital product roles (Russia)",
+      "period": "2013–2017",
+      "bullets": [
+        "Worked on web and email layouts, content updates, and visual adjustments.",
+        "Collaborated with teams and stakeholders, ensuring clear communication and timely delivery."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "42 Berlin — Software Engineering (in progress)",
+      "details": "Project-based learning with focus on problem-solving, debugging, and teamwork."
+    },
+    {
+      "title": "RS School — Frontend Development",
+      "details": "Practical training in HTML, CSS, JavaScript, and modern frontend workflows."
+    },
+    {
+      "title": "Code University — TechStart Program",
+      "details": "Introduction to programming and web development fundamentals."
+    }
+  ],
+  "languages": [
+    "English — fluent",
+    "German — B2"
+  ]
+}

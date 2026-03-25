@@ -59,37 +59,37 @@
       ]
     },
     {
-  "name": "Multiplayer online game (42 Berlin final project)",
-  "tagline": "Fullstack real-time multiplayer web application with synchronized gameplay",
-  "stack": "Team project • React • TypeScript • Vite • Docker • WebSockets • Node.js",
-  "links": { "repo": "https://github.com/n-andr/Transcendence" },
-  "bullets": [
-    {
-      "text": "Acted as Technical Lead, driving architecture decisions, defining project structure, and ensuring code quality across frontend and backend.",
-      "focus": ["leadership", "architecture","fullstack", "frontend", "backend"]
-    },
-    {
-      "text": "Designed and implemented real-time multiplayer synchronization using WebSockets, enabling low-latency state updates across connected clients.",
-      "focus": ["backend", "websockets", "fullstack", "frontend"]
-    },
-    {
-      "text": "Architected and optimized drawing synchronization with incremental stroke updates to reduce network load and improve performance.",
-      "focus": ["frontend", "performance", "fullstack"]
-    },
-    {
-      "text": "Developed interactive frontend using React and TypeScript, integrating live game state, player roles, and room-based sessions.",
-      "focus": ["frontend", "fullstack"]
-    },
-    {
-      "text": "Led technical alignment within the team through code reviews, module ownership, and structured feature planning.",
-      "focus": ["teamwork", "leadership", "fullstack", "frontend"]
-    }
-  ]
-}
+		"name": "Multiplayer online game (42 Berlin final project)",
+		"tagline": "Fullstack real-time multiplayer web application with synchronized gameplay",
+		"stack": "Team project • React • TypeScript • Vite • Docker • WebSockets • Node.js",
+		"links": { "repo": "https://github.com/n-andr/Transcendence" },
+		"bullets": [
+			{
+			"text": "Acted as Technical Lead, driving architecture decisions, defining project structure, and ensuring code quality across frontend and backend.",
+			"focus": ["leadership", "architecture","fullstack", "frontend", "backend"]
+			},
+			{
+			"text": "Designed and implemented real-time multiplayer synchronization using WebSockets, enabling low-latency state updates across connected clients.",
+			"focus": ["backend", "websockets", "fullstack", "frontend"]
+			},
+			{
+			"text": "Architected and optimized drawing synchronization with incremental stroke updates to reduce network load and improve performance.",
+			"focus": ["frontend", "performance", "fullstack"]
+			},
+			{
+			"text": "Developed interactive frontend using React and TypeScript, integrating live game state, player roles, and room-based sessions.",
+			"focus": ["frontend", "fullstack"]
+			},
+			{
+			"text": "Led technical alignment within the team through code reviews, module ownership, and structured feature planning.",
+			"focus": ["teamwork", "leadership", "fullstack", "frontend"]
+			}
+		]
+	}
   ],
   "experience": [
     {
-      "title": "UI/UX + digital product roles (Russia) — Web/Email design, cross-functional collaboration",
+      "title": "UI/UX + digital product roles (Russia) — Web/Email design, CRM-marketing, cross-functional collaboration",
       "period": "2013–2017",
       "bullets": [
         "Worked with stakeholders and teams to deliver customer-facing digital materials and consistent brand experience."
