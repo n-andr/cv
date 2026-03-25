@@ -5,7 +5,7 @@
     "profile": "Profile",
     "projects": "Selected projects",
     "repo": "(repo)",
-    "experience": "Earlier experience (brief)",
+    "experience": "Earlier experience",
     "status": "Status",
     "workAuthorization": "Work authorization",
     "availableFrom": "Available from",
@@ -16,7 +16,7 @@
   },
   "person": {
     "name": "Natalia Andreeva",
-    "location": "Berlin, Germany",
+    "location": "Berlin, Germany, Work authorization: Germany / EU",
     "availability": "Available from 2026-06-01",
     "availableFrom": "2026-06-01",
     "workAuthorization": "Germany / EU",
@@ -25,17 +25,23 @@
       "linkedin": "https://www.linkedin.com/in/natalia-andreeva-bb313821a/"
     }
   },
-  "profile": "Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript and a background in UI/UX. Comfortable implementing small features, fixing layout and styling issues, integrating content, and supporting existing codebases. Experienced working with Git, following project guidelines, and communicating clearly in remote teams. Reliable, detail-oriented, and motivated to learn quickly while contributing to real client projects.",
+  "profile": "Built and contributed to real-world applications using HTML, CSS, JavaScript, and React, including collaborative team projects with structured workflows and code reviews. Strong focus on delivering clean, user-centered interfaces, debugging issues, and improving existing features. Reliable and detail-oriented, with proven ability to learn quickly, take ownership of tasks, and contribute effectively in remote team environments.",
   "skills": {
-    "summary": "Relevant skills for web feature work:",
-    "items": [
-      "HTML, CSS, JavaScript (ES6+), TypeScript basics",
-      "React (basic component development and integration)",
-      "CSS adjustments, responsive layouts, UI fixes",
-      "Basic backend understanding (Python, APIs, request/response flow)",
-      "Git & GitHub (branching, pull requests, collaboration)",
-      "Debugging browser issues and fixing frontend bugs"
-    ]
+	"summary": "Core technologies and tools:",
+	"groups": [
+		{
+		"title": "Languages",
+		"items": ["JavaScript", "TypeScript", "HTML", "CSS", "C", "Python (basic)"]
+		},
+		{
+		"title": "Frameworks & Libraries",
+		"items": ["React", "Vite", "Tailwind CSS"]
+		},
+		{
+		"title": "Tools & Workflow",
+		"items": ["Git", "GitHub", "VS Code", "Linux", "Docker"]
+		}
+	]
   },
   "projects": [
     {
